@@ -5,4 +5,4 @@
 3- cd "nombre del directerio": ingreamos al directorio donde vamos a crear nuestro repositorio
 4- git init: Iniciamos el repositorio
 5- git config --golbal user.name "nombre": ingresamos nuestro nombre de usuario(solo 1 vez)
-6- git config --global user.email "email": ingresamos nuestro email de usario (solo una vez)
+6- git config --global user.email "email": ingresamos nuestro email de usario (solo 1 vez)
