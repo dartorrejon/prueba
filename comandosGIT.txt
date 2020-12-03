@@ -1,0 +1,8 @@
+				COMANDOS DE GIT
+	
+1- pwd : Nos muestra en donde estamos ubicados
+2- mkdir "nombre del directgorio": creamos el directorio donde vamos a guardar nuestro repositorio
+3- cd "nombre del directerio": ingreamos al directorio donde vamos a crear nuestro repositorio
+4- git init: Iniciamos el repositorio
+5- git config --golbal user.name "nombre": ingresamos nuestro nombre de usuario(solo 1 vez)
+6- git config --global user.email "email": ingresamos nuestro email de usario (solo una vez)
